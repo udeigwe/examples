@@ -8,6 +8,7 @@ from torchvision import datasets, transforms
 from torch.optim.lr_scheduler import StepLR
 
 # try something
+# Try again
 
 class Net(nn.Module):
     def __init__(self):
