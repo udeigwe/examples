@@ -9,6 +9,7 @@ from torch.optim.lr_scheduler import StepLR
 
 # try something
 # Try again
+# 3rd try
 
 class Net(nn.Module):
     def __init__(self):
