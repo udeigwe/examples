@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/imagenet" />
+      <excludeFolder url="file://$MODULE_DIR$/dcgan" />
+      <excludeFolder url="file://$MODULE_DIR$/distributed" />
+      <excludeFolder url="file://$MODULE_DIR$/fast_neural_style" />
+      <excludeFolder url="file://$MODULE_DIR$/fx" />
+      <excludeFolder url="file://$MODULE_DIR$/cpp" />
+      <excludeFolder url="file://$MODULE_DIR$/.github" />
+      <excludeFolder url="file://$MODULE_DIR$/mnist_hogwild" />
+      <excludeFolder url="file://$MODULE_DIR$/regression" />
+      <excludeFolder url="file://$MODULE_DIR$/reinforcement_learning" />
+      <excludeFolder url="file://$MODULE_DIR$/snli" />
+      <excludeFolder url="file://$MODULE_DIR$/super_resolution" />
+      <excludeFolder url="file://$MODULE_DIR$/time_sequence_prediction" />
+      <excludeFolder url="file://$MODULE_DIR$/vae" />
+      <excludeFolder url="file://$MODULE_DIR$/word_language_model" />
+    </content>
     <orderEntry type="jdk" jdkName="Python 3.8" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
